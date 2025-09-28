@@ -1,2 +1,2 @@
 Olá, este é o meu primeiro projeto , aprendendo sobre utilização de Git
-Hoje são 28/09/2025 - Estou aprendendo para utilizar um repositório de um projeto que estou criando entre colegas da disciplina de "Residência em Software - I" :)))
+Hoje são 28/09/2025 - Estou aprendendo para utilizar um repositório de um projeto que estou criando entre colegas.
